@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanApp", "LoanApp\LoanApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityApp", "ActivityApp\ActivityApp.csproj", "{F787F6BD-C776-4DE5-BF3A-46AD6C536906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureViewingApp", "SecureViewingApp\SecureViewingApp.csproj", "{11780504-1F32-4200-80B9-5901E53FD997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
